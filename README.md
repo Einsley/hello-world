@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi!
+
+I am going to study machine learning on my own!
